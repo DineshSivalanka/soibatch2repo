@@ -1,2 +1,2 @@
-# soibatch2repo
-cloud computing
+# cloud computing
+#BATCH2  readme file
