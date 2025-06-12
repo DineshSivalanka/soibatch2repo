@@ -17,9 +17,10 @@
 + second line
 + third line
 
-> mblack quote
+> black quote
 
-' single linbe code '
+' single line code '
+
 '''
 #include<stdio.h>
 int main()
