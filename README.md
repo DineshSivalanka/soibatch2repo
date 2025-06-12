@@ -19,8 +19,8 @@
 
 > black quote
 
-'single line code'
-'''
+`single line code`
+```
 #include<stdio.h>
 int main()
 {
@@ -28,4 +28,4 @@ int main()
   printf("enter values:");
   scanf("%d%d",&a,&b);
 }
-'''
+```
