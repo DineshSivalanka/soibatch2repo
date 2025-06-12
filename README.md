@@ -47,3 +47,9 @@ int main()
 
 #### greateful[^1]
 [^1]:Thankful
+
+### to insert the table
+
+|name|college|district|
+|----|---|----|
+|Dinesh|SRKR college|WG|
