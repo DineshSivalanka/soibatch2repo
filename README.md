@@ -45,3 +45,7 @@ int main()
 - [ ] GIHUB
 
 ~~STRIKE THROUGH~~
+
+#### footnote[^1]
+
+
