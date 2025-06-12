@@ -34,3 +34,6 @@ int main()
 
 #### insert any url
 [text1](text2.txt)
+
+#### insert any image
+![my first image]("C:\Users\sival\OneDrive\Pictures\wp3285866.jpg")
