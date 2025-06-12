@@ -19,8 +19,7 @@
 
 > black quote
 
-' single line code '
-
+'single line code'
 '''
 #include<stdio.h>
 int main()
