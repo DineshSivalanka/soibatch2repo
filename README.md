@@ -1,8 +1,11 @@
 # cloud computing
 ## BATCH2  readme file
 *italic*
+
 **bold**
+
 ***italic bold***
+
 ### ordered list
 1.first line
 2.sececond line
