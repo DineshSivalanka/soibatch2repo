@@ -42,4 +42,6 @@ int main()
 - [x] AWS
 - [X] LINUX
 - [X] SHELL SCRIPTING
-- [] GIHUB
+- [ ] GIHUB
+
+~~STRIKE THROUGH~~
