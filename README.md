@@ -9,7 +9,7 @@
 
 ### ordered list
 1. first line
-2. sececond line
+2. second line
 3. third line
 
 #### unordered list
